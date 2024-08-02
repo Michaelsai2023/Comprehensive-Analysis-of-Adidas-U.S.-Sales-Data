@@ -2,12 +2,13 @@
 
 ## Metrics and Dimensions
 
-Sales: Total sales from Adidas products across various retailers.
-Product categories: Footwear, apparel, and accessories.
-Price ranges: Low, mid, and high.
-Sales methods: In-store, online, and outlet.
-Geographic regions: U.S. states and cities.
-Summary of Insights
+# Sales: Total sales from Adidas products across various retailers.
+# Product categories: Footwear, apparel, and accessories.
+# Price ranges: Low, mid, and high.
+# Sales methods: In-store, online, and outlet.
+# Geographic regions: U.S. states and cities.
+
+# Summary of Insights
 
 ## Retailers Analysis:
 Impact of COVID-19: Significant drop in sales during 2020 due to restrictions, followed by a recovery in 2021, with Foot Locker leading in total sales ($177.22M).

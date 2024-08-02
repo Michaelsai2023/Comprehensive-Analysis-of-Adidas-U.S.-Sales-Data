@@ -1,5 +1,11 @@
 # Comprehensive Analysis of Adidas U.S. Sales Data
 
+-	Conducted analysis in Python to surface insights on Adidas U.S. sales data using descriptive analytics. 
+-	Objectives include enhancing retailer performance, optimizing seasonal strategies, understanding customer preferences, and strengthening regional presence. 
+-	Cleaned and explored data, revealing trends in product categories, price ranges, and geographical performance. 
+-	Provided recommendations to boost sales, tailor marketing efforts, and improve regional strategies.
+
+
 ## Metrics and Dimensions
 
 - Sales: Total sales from Adidas products across various retailers.

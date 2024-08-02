@@ -1,12 +1,12 @@
 # Comprehensive Analysis of Adidas U.S. Sales Data
 
-### Metrics and Dimensions
+## Metrics and Dimensions
 
-Sales: Total sales from Adidas products across various retailers.
-Product categories: Footwear, apparel, and accessories.
-Price ranges: Low, mid, and high.
-Sales methods: In-store, online, and outlet.
-Geographic regions: U.S. states and cities.
+### Sales: Total sales from Adidas products across various retailers.
+### Product categories: Footwear, apparel, and accessories.
+### Price ranges: Low, mid, and high.
+### Sales methods: In-store, online, and outlet.
+### Geographic regions: U.S. states and cities.
 
 ### Summary of Insights
 

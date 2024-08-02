@@ -31,7 +31,7 @@
 - Profit Margins: High margins in the $0-10 range and Men's Athletic Footwear categories, suggesting strategic opportunities.
 
 <img width="1030" alt="Screen Shot 2024-08-02 at 17 58 09" src="https://github.com/user-attachments/assets/699c81e0-983e-44d3-b688-9597448a57e1">
-<img width="1038" alt="Screen Shot 2024-08-02 at 17 58 20" src="https://github.com/user-attachments/assets/460de4b4-dd12-42e8-a18e-1613d2f61229">
+
 <img width="1034" alt="Screen Shot 2024-08-02 at 17 58 39" src="https://github.com/user-attachments/assets/b88a99f7-9220-4e20-8291-ceb3cd8c0893">
 
 
@@ -47,7 +47,8 @@
 - Profit Disparities: Variations in units sold and total sales across states highlighted profitability differences and potential for tailored campaigns.
 
 <img width="1315" alt="Screen Shot 2024-08-02 at 17 59 50" src="https://github.com/user-attachments/assets/321a84c8-b30b-41ba-94f4-ac49b5f1a914">
-<img width="1198" alt="Screen Shot 2024-08-02 at 18 00 09" src="https://github.com/user-attachments/assets/87a1c3b9-78ce-4f78-9856-f71975a0a59c">
+<img width="1091" alt="Screen Shot 2024-08-02 at 18 04 45" src="https://github.com/user-attachments/assets/ef824fd5-e2c2-42ad-b4af-cd01c0f32b68">
+
 
 
 ### Recommendations & Next Steps

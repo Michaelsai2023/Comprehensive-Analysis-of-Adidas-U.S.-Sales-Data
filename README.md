@@ -14,6 +14,8 @@
 - Impact of COVID-19: Significant drop in sales during 2020 due to restrictions, followed by a recovery in 2021, with Foot Locker leading in total sales ($177.22M).
 - Performance Variations: Sports Direct and West Gear showed strong operating profits, highlighting the importance of specialized retailers.
 
+<img width="1325" alt="Screen Shot 2024-08-02 at 17 55 48" src="https://github.com/user-attachments/assets/b93e746a-48e4-49f5-8f39-0cc5d22d7307">
+
 ### Product Categories:
 - Top Performers: Men's Street Footwear led sales with $171M, while Women's Apparel also showed strong performance with $144M.
 - Underperformers: Men's Apparel and Women's Athletic Footwear lagged in unit sales, indicating potential areas for marketing focus.

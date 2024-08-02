@@ -6,7 +6,7 @@
 -	Provided recommendations to boost sales, tailor marketing efforts, and improve regional strategies.
 
 
-## Metrics and Dimensions
+### Metrics and Dimensions
 
 - Sales: Total sales from Adidas products across various retailers.
 - Product categories: Footwear, apparel, and accessories.
